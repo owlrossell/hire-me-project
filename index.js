@@ -14,6 +14,6 @@ buttonYes.addEventListener('click', () => {
     Swal.fire({
         icon: 'success',
         title: 'Gracias por el contrato',
-        html: 'Haz click <a href="https://www.facebook.com/rossellrurush/" target="_blank">aquí</a> para terminar de contactarme: '
+        html: 'Haz click <a href="https://api.whatsapp.com/send/?phone=51927848384&text&type=phone_number&app_absent=0" target="_blank">aquí</a> para terminar de contactarme: '
     });
 })
